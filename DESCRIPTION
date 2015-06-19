@@ -1,0 +1,9 @@
+Package: multiQTL
+Type: Package
+Title: Functions to extract and plot statistics from multiple QTL modesl
+Version: 1.0
+Date: 2015-06-19
+Author: John T. Lovell
+Maintainer: John T. Lovell <johntlovell@gmail.com>
+Description: Two functions that integrate with R/qtl to improve multiple QTL statistical exploration and visulaization
+License: NA
